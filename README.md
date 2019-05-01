@@ -1,6 +1,8 @@
 # graphql-test
 Simple GraphQL server with hardcoded data
 
-# RUN THIS APP LOCALLY
-1. npm install
-2. node server.js
+## Run this project locally
+1. Clone this repo
+2. Got to directory
+3. Run **```npm install```**
+4. Run **```node server.js```**
